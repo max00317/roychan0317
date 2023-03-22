@@ -1,4 +1,4 @@
-  # Hey there! :wave::smiley:
+  # Hi there! :wave::smiley:
 
   I'm Roy Chan! I am an addicted programmer having engaged with my PC in 10+ years. With almost ten years of web development experiences, both in backend and frontend, I am now the one who performs best in web development.
 <br>
